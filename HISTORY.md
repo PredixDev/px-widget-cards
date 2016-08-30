@@ -1,3 +1,7 @@
+v1.4.4
+==================
+* fixed css and updated to new demo 
+
 v1.4.3
 ==================
 * added screenshot & demo link to REAEME
